@@ -1,0 +1,14 @@
+body {
+  background: black
+}
+p {
+  color: navajowhite;
+}
+h1 {
+  font-weight: bold;
+  color: yellowgreen;
+}
+div{
+  font-weight: bold;
+  color: ghostwhite;
+}
